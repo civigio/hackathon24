@@ -1,0 +1,1 @@
+Files e documenti del progetto Hackathon 2024, svolto con UNIMIB e INFN - Milano Bicocca. Lavoro di machine learning, concentratosi poi sull'algoritmo YOLOv8 trainato per riconoscere prima tumori al cervello, poi per riconoscere le tracce lasciate dalle particelle in una camera a nebbia.
