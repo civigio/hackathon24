@@ -1,0 +1,3 @@
+0.82 trace_frames
+0.10 doubt_frames
+0.09 nothing_frames
